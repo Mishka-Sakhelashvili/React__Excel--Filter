@@ -1,0 +1,29 @@
+.app {
+  width: 80%;
+  margin: auto;
+}
+
+.app>div {
+  margin: 50px 20px;
+}
+
+.app a {
+  color: blue;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  font-size: 24px;
+}
+
+.app a:hover {
+  color: orange;
+}
+
+.app table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.app td,th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 10px;
+}
