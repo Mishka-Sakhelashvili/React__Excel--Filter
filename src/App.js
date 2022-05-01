@@ -45,7 +45,7 @@ const App = () => {
   return (
     <div className="app">
       <div>
-        <a href="#" target="_blank"> View the code </a>
+        <a href="https://github.com/Mishka-Sakhelashvili/React__Excel--Filter" target="_blank"> View the code </a>
       </div>
 
       <table>
